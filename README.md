@@ -2,7 +2,7 @@
 - 👀 I’m interested in pytohn 
 - 🌱 I’m currently learning ml
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me twitter--> @0guz0001
 
 <!---
 oguzzmeric/oguzzmeric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
